@@ -1,6 +1,6 @@
-atus*.iml
+status*.iml
 .gradle
-/local.properties
+local.properties
 /.idea/caches
 /.idea/libraries
 /.idea/modules.xml
@@ -12,3 +12,4 @@ atus*.iml
 /captures
 .externalNativeBuild
 .cxx
+*~

@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CoffeeHelper</string>
+    <string name="welcome_message">Welcome to Coffee Helper!</string>
+    <string name="go_button">Let\'s Brew!</string>
 </resources>

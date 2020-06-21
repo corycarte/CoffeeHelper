@@ -23,7 +23,7 @@
         android:layout_height="117dp"
         android:fontFamily="sans-serif-medium"
         android:text="@string/welcome_message"
-        android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"

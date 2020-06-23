@@ -2,4 +2,8 @@
     <string name="app_name">CoffeeHelper</string>
     <string name="welcome_message">Welcome to Coffee Helper!</string>
     <string name="go_button">Let\'s Brew!</string>
+    <string name="selector_text">What kind of coffee are you brewing?</string>
+    <string name="coffeetype_espresso">Espresso</string>
+    <string name="coffeetype_frenchpress">French Press</string>
+    <string name="coffeetype_drip">Drip</string>
 </resources>
